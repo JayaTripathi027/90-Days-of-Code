@@ -1,4 +1,5 @@
-//PRINTING FACTORS OF A NUMBER
+//Divisors of a Number
+//A number which completely divides another number is called it's divisor
 #include <iostream>
 using namespace std;
 
